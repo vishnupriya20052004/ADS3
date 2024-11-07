@@ -106,6 +106,6 @@ rp.head()
 ```
 ![image](https://github.com/user-attachments/assets/747b7090-53f1-4930-b14f-eed9ac62c5ec)
 
-**RESULT**
+**RESULT:**
 
 Thus, Recommendation Systems using the suitable data sets is implemented successfully.
